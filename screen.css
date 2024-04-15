@@ -1,4 +1,27 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+header {
+    padding: 20px;
+}
+
+.btn {
+    margin-right: 20px;
+    border-radius: 5px;
+    border: 1px solid #a5a5a5;
+    background-color: #fff;
+    color: #252525;
+    font-weight: 500;
+    font-size: 11pt;
+}
+
+.nav-link {
+    color: #000;
+    font-weight: 500;
+}
+
+.container {
+    margin-top: 20px;
+    width: 950px;
+}
+
+.card {
+    width: 300px;
 }
