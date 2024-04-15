@@ -24,4 +24,39 @@ header {
 
 .card {
     width: 300px;
+    border: 0px;
 }
+
+main {
+    margin-bottom: 50px;
+}
+
+h5 {
+    font-size: 12pt;
+    display: inline;
+    margin-right: 45px;
+}
+
+h6 {
+    display: inline;
+    padding: 3px;
+}
+
+.gray {
+    color: #8c8c8c;
+}
+
+.nav-pills {
+    --bs-nav-pills-link-active-bg: #f6f5f1;
+    --bs-nav-pills-border-radius: 20px;
+    --bs-nav-pills-link-active-color: black;
+}
+
+.nav-pills:hover {
+    --bs-nav-pills-link-active-bg: #f2f0ec;
+}
+
+.nav-link:hover {
+    color: #6e6e6e;
+}
+
